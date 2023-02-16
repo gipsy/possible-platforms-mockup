@@ -5,5 +5,5 @@ This is a Bootstrap 5 Boilerplate with Gulp 4+, cross-env, Sass, sourcemaps, con
 
 [More in documentation](https://bootstrapstarter.com/template-basic5-bootstrap5-html/)
 
-![bootstrapstarter](src/img/screenshot.png)
+![bootstrapstarter](src/assets/img/screenshot.png)
 
